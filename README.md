@@ -1,3 +1,8 @@
+# How to Run
+On two different terminals
+- node server.js
+- node client.js
+
 # gRPC vs REST: Pros and Cons
 
 ## gRPC Pros
