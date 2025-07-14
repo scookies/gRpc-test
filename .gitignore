@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.env
+
+# gRPC / Proto
+*.pb.js
+*.pb.ts
+*.proto.js
+*.proto.ts
+*.js.map
+*.ts.map
+
+# Build outputs
+dist/
+build/
+out/
+
+# Editor/IDE
+.vscode/
+.idea/
+.DS_Store
+
+# OS Files
+Thumbs.db
